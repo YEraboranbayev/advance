@@ -1,0 +1,6 @@
+streamlit==1.22.0
+llama_index==0.5.7
+chromadb==0.3.3
+ollama==0.1.5
+pydantic==1.10.7
+PyPDF2==1.26.0
